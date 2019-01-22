@@ -7,7 +7,7 @@ import Img from 'gatsby-image'
 import { Link } from 'gatsby'
 
 const CardItem = styled(Link)`
-  min-height: 500px;
+  min-height: 200px;
   position: relative;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);

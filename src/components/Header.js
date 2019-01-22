@@ -21,8 +21,8 @@ const Content = styled.div`
 `
 
 const Avatar = styled.div`
-  height: 125px;
-  width: 125px;
+  height: 200px;
+  width: 200px;
   margin: 0 auto;
   image-rendering: -moz-crisp-edges;
   image-rendering: -o-crisp-edges;
