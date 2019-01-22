@@ -23,8 +23,8 @@ module.exports = {
 
   // Your information
   avatar: '/logos/lekoarts.png',
-  name: 'LekoArts',
-  location: 'Germany',
+  name: 'Currin Berdine',
+  location: 'San Francisco',
   socialMedia: [
     {
       url: 'https://twitter.com/lekoarts_de',
